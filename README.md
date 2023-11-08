@@ -68,4 +68,3 @@ This will launch the development server, and you can access your application at 
 ## Contributing
 
 If you'd like to contribute, please fork the repository and create a pull request. You can also open an issue for any bug reports or feature requests.
-
